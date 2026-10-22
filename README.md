@@ -88,7 +88,7 @@ data-warehouse-business-intelligence/
 │   ├── dashboard_screenshots/
 │   └── dashboard.pbix
 └── docs/
-    ├── architecture.png
+    ├── report.pdf
     └── data_model.png
 ```
 
